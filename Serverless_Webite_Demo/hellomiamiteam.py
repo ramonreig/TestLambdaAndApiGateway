@@ -8,5 +8,4 @@ def lambda_handler(event, context):
         },
         "body": "Keep being awesome Miami Team!"
     }
-#comment
     return resp
